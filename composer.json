@@ -1,0 +1,26 @@
+{
+    "name": "studioraz/magento2-configurable-price-range",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "require": {
+        "php": "~7.0|~7.1",
+        "magento/framework": "*"
+    },
+    "suggest": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "SR\\ConfigurablePriceRange\\": ""
+        }
+    },
+    "support": {
+        "email": "support@studioraz.co.il",
+        "wiki": "http://doc.studioraz.co.il"
+    }
+}

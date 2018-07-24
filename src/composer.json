@@ -9,10 +9,10 @@
     "suggest": {},
     "autoload": {
         "files": [
-            "src/registration.php"
+            "registration.php"
         ],
         "psr-4": {
-            "SR\\ConfigurablePriceRange\\": "src/"
+            "SR\\ConfigurablePriceRange\\": ""
         }
     },
     "support": {
